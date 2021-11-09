@@ -1,0 +1,48 @@
+export const Questions = [
+    {
+        prompt: "What is 1+3?",
+        optionA: "24",
+        optionB: "21",
+        optionC: "4",
+        optionD: "2",
+        answer: "C",
+    },
+    {
+        prompt: "Which is a Streaming Platform?",
+        optionA: "Twitter",
+        optionB: "Twitch",
+        optionC: "Google",
+        optionD: "Robinhood",
+        answer: "B",
+    },
+    {
+        prompt: "Best tech youtube channel?",
+        optionA: "PedroTech",
+        optionB: "Dev Ed",
+        optionC: "Fireship",
+        optionD: "TechWithTim",
+        answer: "A",
+    },
+    {
+        prompt: "Which is not a Nigerian traditional delicacy?",
+        optionA: "Pounded Yam and Egusi",
+        optionB: "Akpu and Afang",
+        optionC: "Tuwo shinkafa and Gbegiri",
+        optionD: "Oklinto and deru",
+        answer: "D",
+    },{
+        prompt: "Which is the least most engaged social media platform in Nigeria?",
+        optionA: "Snapchat",
+        optionB: "Facebook",
+        optionC: "Twitter",
+        optionD: "Instagram",
+        answer: "A",
+    },{
+        prompt: "Which is a Nigerian owned Organization?",
+        optionA: "Shoprite",
+        optionB: "DSTV",
+        optionC: "Sujimoto",
+        optionD: "Amazon",
+        answer: "C",
+    },
+];
